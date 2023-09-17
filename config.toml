@@ -282,7 +282,12 @@ canonifyURLs = true
     async = true
     defer = true
 
-
+  [[params.customJS]]
+    src = "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"
+    integrity = "sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw=="
+    crossorigin = "anonymous"
+    async = true
+    defer = true
 
   # ---------------
   # Sharing options
