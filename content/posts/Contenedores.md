@@ -3,6 +3,8 @@ title: "Contenedores"
 date: 2023-09-04T00:00:37+02:00
 ---
 
+![](/images/contenedores/contenedor.jpg)
+
 Un contenedor es un objeto que nos permite ejecutar una aplicación de manera aislada. Conceptualmente es similar a una máquina virtual pero mucho más ligera.
 
 Por ejemplo, podemos ejecutar en local una aplicación como el [editor de swagger](https://editor.swagger.io/) sin necesidad de hacer una instalación tradicional
