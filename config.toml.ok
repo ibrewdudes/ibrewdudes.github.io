@@ -12,15 +12,17 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://ibrewdudes.github.io/nostro-cloud-training/"
+#baseURL = "https://ibrewdudes.github.io/nostro-cloud-training"
+baseURL = "/"
+relURL = true
 languageCode = "es-es"
 defaultContentLanguage = "es-es"
 title = "Cloud learning site"
-theme = "tranquilpeak-theme"
-disqusShortname = "tranquilpeak-theme"
+theme = "tranquilpeak"
+disqusShortname = "tranquilpeak"
 # googleAnalytics = "UA-123-45"
 paginate = 7
-canonifyurls = true
+canonifyURLs = true
 
 [permalinks]
   posts = "/:year/:month/:slug/"
@@ -350,7 +352,7 @@ canonifyurls = true
   [params.comment]
     [params.comment.disqus]
       enable = true
-      shortname = "tranquilpeak-theme"
+      shortname = "tranquilpeak"
     [params.comment.gitalk]
       enable = false
       # clientId =
