@@ -14,7 +14,7 @@
 
 #baseURL = "https://ibrewdudes.github.io/nostro-cloud-training"
 baseURL = "/"
-#relURL = true
+relURL = true
 languageCode = "es-es"
 defaultContentLanguage = "es-es"
 title = "Cloud learning site"
