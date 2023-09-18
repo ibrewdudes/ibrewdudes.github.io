@@ -14,7 +14,7 @@
 
 #baseURL = "https://ibrewdudes.github.io/nostro-cloud-training"
 baseURL = "/"
-relURL = true
+#relURL = true
 languageCode = "es-es"
 defaultContentLanguage = "es-es"
 title = "Cloud learning site"
@@ -22,7 +22,7 @@ theme = "tranquilpeak"
 disqusShortname = "tranquilpeak"
 # googleAnalytics = "UA-123-45"
 paginate = 7
-canonifyURLs = true
+canonifyURLs = false
 
 [permalinks]
   posts = "/:year/:month/:slug/"
