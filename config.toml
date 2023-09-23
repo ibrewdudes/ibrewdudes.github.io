@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "Ibrewdudes blog"
 theme = "tranquilpeak"
 disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+#  googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
 
