@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Modernización de aplicaciones</title>
-    <link>https://ibrewdudes.github.io/tags/</link>
-    <description>Recent content in Tags on Modernización de aplicaciones</description>
+    <title>Tags on Hugo tranquilpeak theme</title>
+    <link>https://github.com/ibrewdudes/nostro-cloud-training/tags/</link>
+    <description>Recent content in Tags on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="https://ibrewdudes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/ibrewdudes/nostro-cloud-training/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
