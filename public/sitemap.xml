@@ -2,19 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2023-09-04T00:00:37+02:00</lastmod>
+    <loc>https://username.github.io/</loc>
   </url><url>
-    <loc>/2023/09/contenedores/</loc>
-    <lastmod>2023-09-04T00:00:37+02:00</lastmod>
+    <loc>https://username.github.io/categories/</loc>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-09-04T00:00:37+02:00</lastmod>
-  </url><url>
-    <loc>/archives/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>https://username.github.io/tags/</loc>
   </url>
 </urlset>
