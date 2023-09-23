@@ -2,19 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/ibrewdudes/nostro-cloud-training/2023/09/contenedores/</loc>
+    <loc>https://ibrewdudes.github.io/posts/contenedores/</loc>
     <lastmod>2023-09-04T00:00:37+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/ibrewdudes/nostro-cloud-training/</loc>
+    <loc>https://ibrewdudes.github.io/</loc>
     <lastmod>2023-09-04T00:00:37+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/ibrewdudes/nostro-cloud-training/posts/</loc>
+    <loc>https://ibrewdudes.github.io/posts/</loc>
     <lastmod>2023-09-04T00:00:37+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/ibrewdudes/nostro-cloud-training/archives/</loc>
+    <loc>https://ibrewdudes.github.io/categories/</loc>
   </url><url>
-    <loc>https://github.com/ibrewdudes/nostro-cloud-training/categories/</loc>
-  </url><url>
-    <loc>https://github.com/ibrewdudes/nostro-cloud-training/tags/</loc>
+    <loc>https://ibrewdudes.github.io/tags/</loc>
   </url>
 </urlset>

@@ -1,0 +1,48 @@
+baseURL: https://ibrewdudes.github.io/
+title: Modernización de aplicaciones
+theme: beautifulhugo
+languageCode: es-es
+pygmentsStyle: trac
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+pygmentsCodefencesGuessSyntax: true
+
+
+# Parámetros para el tema
+params:
+  #subtitle: Build a beautiful and simple website in minutes
+  mainSections:
+    - post
+    - posts
+  logo: img/avatar-icon.png      # Expecting square dimensions
+  favicon: img/favicon.ico
+  dateFormat: January 2, 2006"
+  commit: false
+  rss: true
+  comments: true
+  readingTime: true
+  wordCount: true
+  useHLJS: true
+  socialShare: true
+  delayDisqus: true
+  showRelatedPosts: true
+
+Author:
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "Raúl"
+  email = "raul@nostro.es"
+  facebook = "username"
+#  linkedin = "username"
+
+
+# Menu principal (característica de Hugo)
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: 100
+    - identifier: contact
+      name: Contact
+      url: /contact
+      weight: 200  
