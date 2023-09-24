@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Modernización de aplicaciones</title>
+    <link>https://ibrewdudes.github.io/posts/</link>
+    <description>Recent content in Posts on Modernización de aplicaciones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 04 Sep 2023 00:00:37 +0200</lastBuildDate><atom:link href="https://ibrewdudes.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contenedores</title>
+      <link>https://ibrewdudes.github.io/posts/contenedores/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:37 +0200</pubDate>
+      
+      <guid>https://ibrewdudes.github.io/posts/contenedores/</guid>
+      <description>Un contenedor es un objeto que nos permite ejecutar una aplicación de manera aislada. Conceptualmente es similar a una máquina virtual pero mucho más ligera.
+Por ejemplo, podemos ejecutar en local una aplicación como el editor de swagger sin necesidad de hacer una instalación tradicional
+Para manejar los contenedores (crearlos, descargarlos, ejecutarlos&amp;hellip;) necesitamos una herramienta como docker o podman
+Instalación de podman En linux lo podemos instalar con el gestor de paquetes de nuestra distribución.</description>
+    </item>
+    
+  </channel>
+</rss>
