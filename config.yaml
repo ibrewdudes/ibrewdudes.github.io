@@ -27,7 +27,6 @@ params:
   socialShare: true
   delayDisqus: true
   showRelatedPosts: true
-  disqusShortname: hugo-tranquilpeak-theme
 
 Author:
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
