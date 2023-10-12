@@ -86,7 +86,8 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+  copyright = ""
+  #copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
   favicon = "/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
