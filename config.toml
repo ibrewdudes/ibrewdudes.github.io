@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "Castellano"
     [languages.es.params]
-      introTitle = "Hey! Soy narbond0"
-      introSubtitle = "Desarrollador backend y aficionado al software libre"
-      introPhoto = "/picture.png"
+      introTitle = "Modernización de aplicaciones"
+      introSubtitle = ""
+      introPhoto = "/cabecera.jpg"
       logo = "/logo.png"
     [[languages.es.menu.main]]
         name = "Blog"
@@ -40,8 +40,8 @@ DefaultContentLanguageInSubdir = true
 #    weight = 1
 #    languageName = "English"
 #    [languages.en.params]
-#      introTitle = "Hey! I'm narbond0"
-#      introSubtitle = "Backend developer and open source aficionado"
+#      introTitle = "Application modernization"
+#      introSubtitle = ""
 #      introPhoto = "/picture.png"
 #      logo = "/logo.png"
 #    [[languages.en.menu.main]]
