@@ -86,8 +86,9 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = ""
-  #copyright = "El texto está disponible bajo la Licencia Creative Commons Atribución-CompartirIgual 4.0"
+  #copyright = ""
+  copyright = "El texto está disponible bajo la Licencia Creative Commons Atribución-CompartirIgual 4.0"
+  copyrightUrl="https://creativecommons.org/licenses/by-sa/4.0/deed.es"
   favicon = "/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
