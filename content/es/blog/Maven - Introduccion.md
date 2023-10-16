@@ -24,7 +24,7 @@ dnf install maven
 apt-get install maven
 ```
 
-En windows tendremos que descargarlo desde la [web de apache]() 
+En windows tendremos que descargarlo desde la [web de apache]()
 
 ## Creación de un proyecto básico
 

@@ -1,0 +1,15 @@
+<div class="{{ .Site.Params.ascentColor | default "bg-pink-50" }} dark:bg-gray-900">
+  <div class="container px-4 py-3 mx-auto max-w-full grid grid-cols-1 md:grid-cols-1 gap-4 items-center">
+      <div>
+      <!--div class="text-2xl font-bold mb-2">{{ .Site.Params.copyright | safeHTML }}</div-->
+      <p class="opacity-60 flex items-center justify-center">
+<!--        {{ if (isset .Site.Params "copyright") }}
+        {{ .Site.Params.copyright }}
+        {{ else }}
+        {{ dateFormat "2006" now }} © {{ .Site.Title }}
+        {{ end }} -->
+        <a href="{{ .Site.Params.copyrightUrl }}" target="_blank">{{ .Site.Params.copyright }}</a>
+      </p>
+    </div>
+  </div>
+</div>
