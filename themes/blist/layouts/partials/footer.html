@@ -1,18 +1,16 @@
-<footer class="container p-6 mx-auto flex justify-between items-center">
-  <span class="{{ .Site.Params.ascentColor | default "bg-pink-50" }} container px-4 py-3 mx-auto max-w-full grid grid-cols-1 md:grid-cols-1 gap-4 items-center">
-    {{ if (isset .Site.Params "copyright") }}
-    {{ .Site.Params.copyright | safeHTML }}
-    {{ else }}
-    {{ dateFormat "2006" now }} © {{ .Site.Title }}
-    {{ end }}
-  </span>
-  <span onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="p-1 cursor-pointer">
-    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5"
+<footer class="container flex justify-between md:justify-between mx-auto relative max-w-full">
+  
+  <div class="{{ .Site.Params.ascentColor | default "bg-pink-50" }} container px-4 py-3">
+    <a href="{{ .Site.Params.copyrightUrl }}" target="_blank">{{ .Site.Params.copyright }}</a>
+  </div>
+  <div onclick="window.scrollTo({top: 0, behavior: 'smooth'})" 
+       class="{{ .Site.Params.ascentColor | default "bg-pink-50" }} px-2">
+      <svg xmlns="http://www.w3.org/2000/svg" width="30" height="48" viewBox="0 0 24 24" stroke-width="1.5"
       stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
       <path d="M18 15l-6 -6l-6 6h12" />
     </svg>
-  </span>
+  </div>
 </footer>
 
 {{ if .Site.Params.enableSearch }}
