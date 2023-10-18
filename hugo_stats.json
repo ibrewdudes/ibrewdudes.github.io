@@ -12,6 +12,7 @@
       "footer",
       "h1",
       "h2",
+      "h3",
       "h5",
       "head",
       "header",
@@ -70,7 +71,6 @@
       "grid",
       "grid-cols-1",
       "h-52",
-      "h-8",
       "h-full",
       "hidden",
       "highlight",
@@ -162,7 +162,6 @@
       "text-sm",
       "text-white",
       "text-xl",
-      "text-xs",
       "toc",
       "toggle-dark-mode",
       "top-0",
@@ -181,6 +180,8 @@
       "ejecución-de-un-contenedor",
       "instalación-de-maven",
       "instalación-de-podman",
+      "instalación-en-linux",
+      "instalación-en-windows",
       "un-poco-de-teoría"
     ]
   }
