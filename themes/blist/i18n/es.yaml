@@ -23,6 +23,8 @@
   translation: "minutos"
 - id: words
   translation: "palabras"
+- id: tableOfContent
+  translation: "Indice de contenido"
 
 # Date
 - id: January
