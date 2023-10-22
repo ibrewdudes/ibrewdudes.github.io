@@ -2,7 +2,7 @@
 title: "Maven: introducción"
 description: "Uso básico de maven"
 date: 2023-10-21T00:00:37+02:00
-tags: ["java", "maven"]
+tags: ["java", "maven", "basico"]
 thumbnail: /topics/java.jpg
 ---
 

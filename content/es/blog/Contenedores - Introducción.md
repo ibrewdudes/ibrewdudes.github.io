@@ -2,7 +2,7 @@
 title: "Contenedores: introducción"
 description: "Uso básico de podman"
 date: 2023-09-04T00:00:37+02:00
-tags: ["contenedores", "podman"]
+tags: ["contenedores", "podman", "basico"]
 thumbnail: /topics/contenedores.jpg
 ---
 
