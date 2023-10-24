@@ -4,6 +4,9 @@ description: "Uso básico de podman"
 date: 2023-09-04T00:00:37+02:00
 tags: ["contenedores", "podman", "basico"]
 thumbnail: /topics/contenedores.jpg
+thumbnailImagePosition: left
+thumbnailImage: /topics/contenedores.jpg 
+coverImage: /topics/contenedores.jpg
 ---
 
 Un contenedor es un objeto que nos permite ejecutar una aplicación de manera aislada. Conceptualmente es similar a una máquina virtual pero mucho más ligera.

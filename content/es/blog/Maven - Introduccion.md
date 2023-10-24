@@ -3,7 +3,9 @@ title: "Maven: introducción"
 description: "Uso básico de maven"
 date: 2023-10-21T00:00:37+02:00
 tags: ["java", "maven", "basico"]
-thumbnail: /topics/java.jpg
+thumbnailImagePosition: left
+thumbnailImage: /topics/java.jpg
+coverImage: /topics/java.jpg
 ---
 
 [Maven](https://maven.apache.org/) es una herramienta para la gestión de proyectos java. Con maven podemos:

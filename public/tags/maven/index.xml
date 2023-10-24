@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maven on tranquilpeak</title>
+    <link>https://example.org/tags/maven/</link>
+    <description>Recent content in maven on tranquilpeak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Oct 2023 00:00:37 +0200</lastBuildDate><atom:link href="https://example.org/tags/maven/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maven: introducción</title>
+      <link>https://example.org/es/blog/maven-introduccion/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:37 +0200</pubDate>
+      
+      <guid>https://example.org/es/blog/maven-introduccion/</guid>
+      <description>Maven es una herramienta para la gestión de proyectos java. Con maven podemos:
+Especificar las librerías que necesita el proyecto (dependencias) Compilar, empaquetar y ejecutar el proyecto Usar plugins para ampliar las capacidades del propio maven que nos permiten hacer cosas como generar la documentación del código o generar código automáticamente La configuración de un proyecto maven se hace mediante un fichero XML llamado POM (Project Object Model)
+Instalación de maven Instalación en Linux La forma más rápida es instalarlo desde el repositorio de nuestra distribución:</description>
+    </item>
+    
+  </channel>
+</rss>
