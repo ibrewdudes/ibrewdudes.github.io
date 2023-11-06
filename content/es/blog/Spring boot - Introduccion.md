@@ -1,7 +1,7 @@
 ---
 title: "Spring boot: introducción"
 description: "Primeros pasos con Spring boot"
-date: 2023-10-21T00:00:37+02:00
+date: 2023-11-06T00:00:37+02:00
 tags: ["java", "spring boot", "basico"]
 thumbnailImagePosition: left
 thumbnailImage: /topics/java.jpg
