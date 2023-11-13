@@ -14,3 +14,8 @@ draft: true
 ## Creación de un proyecto básico
 La creación de un proyecto spring boot se puede hacer desde la web de [Spring initializr](https://start.spring.io/): ![Spring boot rest API](/spring-boot/spring-boot-res-api-example.png "Creación de un proyecto rest API")
 
+
+
+
+## Notas
+Spring boot se basa en el concepto de starter, que es un 'paquete' de dependencias para utilizar alguna funcionalidad. Por ejemplo, si queremos utilizar una base de datos en nuestro proyecto anadiremos el starter **boot-starter-jpa** y tendremos disponibles todas las dependencias para utilizar JPA
